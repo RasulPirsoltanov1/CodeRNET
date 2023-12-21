@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\bin\Debug\net6.0\IDispposable_Intro.exe
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\bin\Debug\net6.0\IDispposable_Intro.deps.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\bin\Debug\net6.0\IDispposable_Intro.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\bin\Debug\net6.0\IDispposable_Intro.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\bin\Debug\net6.0\IDispposable_Intro.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\refint\IDispposable_Intro.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\IDispposable_Intro.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\IDispposable_Intro\obj\Debug\net6.0\ref\IDispposable_Intro.dll
