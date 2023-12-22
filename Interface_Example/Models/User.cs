@@ -8,32 +8,46 @@ namespace Interface_Example.Models
 {
     internal class User : IAccount
     {
-        public Guid Id { get; set; }
-        public string FullName { get; set; }
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public Guid Id
+        {
+            get;
+        }
+        public User(string email, string fullName, string pass)
+        {
+            Email = email;
+            FullName = fullName;
+            Id = new Guid();
+            if (PasswordChecker(pass))
+            {
+                Password = pass;
+            }
+            else
+            {
+                throw new Exception("incorrect pass");
+            }
+        }
+        public string FullName
+        {
+            get;
+            set;
+        }
+        public string Email
+        {
+            get;
+            set;
+        }
+        private string Password
+        {
+            get;
+            set;
+        }
         public bool PasswordChecker(string password)
         {
-            int count = 0;
-
-            Console.Write("Enter the string: ");
-
-            for (int i = 0; i < password.Length; i++)
-            {
-                char.IsDigit(password[i]);
-                char.IsLower(password[i]);
-                char.IsUpper(password[i]);
-                if ((password[i] >= '0') && (password[i] <= '9'))
-                {
-                    count++;
-                }
-            }
             if (password.Length > 8 &&
-                count >= 1 &&
-                password.ToCharArray().Where(c => c >= 'A' && c <= 'Z').Count() >= 1 &&
-                password.ToCharArray().Where(c => c >= 'a' && c <= 'z').Count() >= 1)
+              password.ToCharArray().Where(x => char.IsDigit(x)).Count() >= 1 &&
+              password.ToCharArray().Where(c => char.IsLower(c)).Count() >= 1 &&
+              password.ToCharArray().Where(c => char.IsUpper(c)).Count() >= 1)
             {
-                Password = password;
                 return true;
             }
             return false;
@@ -42,11 +56,11 @@ namespace Interface_Example.Models
         public void ShowInfo()
         {
             Console.WriteLine($@"
-name : {FullName}
-email : {Email}
-password : {Password}
-
-");
+    
+        name:{FullName}
+        email:{Email}
+        password:{Password}
+            ");
         }
     }
 }

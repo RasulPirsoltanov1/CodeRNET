@@ -6,11 +6,7 @@ namespace Interface_Example
     {
         static void Main(string[] args)
         {
-            User user = new User();
-            user.FullName = "Test";
-            user.Id = new Guid();
-            user.Email = "Test@gmail.com";
-            user.PasswordChecker("DSsSF1JKH.ASDF");
+            User user = new User("Test", "Test@gmail.com", "DSsSss12JKH.ASDF");
             user.ShowInfo();
         }
     }
