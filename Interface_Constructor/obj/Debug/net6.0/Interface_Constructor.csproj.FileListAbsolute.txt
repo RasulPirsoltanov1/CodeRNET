@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\bin\Debug\net6.0\Interface_Constructor.exe
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\bin\Debug\net6.0\Interface_Constructor.deps.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\bin\Debug\net6.0\Interface_Constructor.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\bin\Debug\net6.0\Interface_Constructor.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\bin\Debug\net6.0\Interface_Constructor.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\refint\Interface_Constructor.dll
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.pdb
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\Interface_Constructor.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Code_Tasks\Interface_Constructor\obj\Debug\net6.0\ref\Interface_Constructor.dll
