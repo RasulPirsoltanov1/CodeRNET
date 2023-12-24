@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Astrid Hansen
+EMAIL:astrid.hansen@example.com
+TEL:97704226
+ADR;TYPE=WORK:;;Skaerbaek;;Denmark
+UID:011249-4674
+END:VCARD

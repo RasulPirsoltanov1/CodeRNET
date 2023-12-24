@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Nathan Gonzalez
+EMAIL:nathan.gonzalez@example.com
+TEL:01-44-59-89-36
+ADR;TYPE=WORK:;;Toulouse;;France
+UID:1511012689566 10
+END:VCARD

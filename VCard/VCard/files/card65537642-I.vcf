@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rafael Herrera
+EMAIL:rafael.herrera@example.com
+TEL:947-607-897
+ADR;TYPE=WORK:;;Orihuela;;Spain
+UID:65537642-I
+END:VCARD

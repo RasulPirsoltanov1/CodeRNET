@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Baptiste Morel
+EMAIL:baptiste.morel@example.com
+TEL:078 334 63 46
+ADR;TYPE=WORK:;;Meyrin;;Switzerland
+UID:756.3745.4531.60
+END:VCARD

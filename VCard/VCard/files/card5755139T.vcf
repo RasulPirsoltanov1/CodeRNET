@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Harry Martin
+EMAIL:harry.martin@example.com
+TEL:041-936-0596
+ADR;TYPE=WORK:;;Cashel;;Ireland
+UID:5755139T
+END:VCARD

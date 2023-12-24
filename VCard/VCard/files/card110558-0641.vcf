@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sara Sørensen
+EMAIL:sara.sorensen@example.com
+TEL:32155180
+ADR;TYPE=WORK:;;Rødvig Stevns;;Denmark
+UID:110558-0641
+END:VCARD

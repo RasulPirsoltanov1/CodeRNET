@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Charles Bishop
+EMAIL:charles.bishop@example.com
+TEL:(608) 647-1929
+ADR;TYPE=WORK:;;Overland Park;;United States
+UID:595-52-2691
+END:VCARD

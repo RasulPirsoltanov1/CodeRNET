@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Malthe Mortensen
+EMAIL:malthe.mortensen@example.com
+TEL:70629788
+ADR;TYPE=WORK:;;Kongens  Lyngby;;Denmark
+UID:260165-3598
+END:VCARD
