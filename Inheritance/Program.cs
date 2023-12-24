@@ -7,8 +7,7 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            var dictionary=new Dictionary<string, object>() {
+            var dictionary = new Dictionary<string, object>() {
                 { "FirstName","Rasul"},
                 { "Id",Guid.NewGuid()},
                 { "LastName","Rasul"},
@@ -16,14 +15,14 @@ namespace Inheritance
                 { "Gender","Kisi"},
                 { "Phone","43563465"},
                 { "Address","bAKU"},
-                { "GenerateEmail",false},
+                { "GenerateEmail",true},
             };
             Employee employee = new Employee();
             foreach (PropertyInfo info in employee.GetType().GetProperties())
             {
-                if(dictionary.ContainsKey(info.Name))
+                if (dictionary.ContainsKey(info.Name))
                 {
-                    info.SetValue(employee,dictionary[info.Name]);
+                    info.SetValue(employee, dictionary[info.Name]);
                 }
                 else
                 {
