@@ -24,16 +24,15 @@ namespace CustomJsonSerializer
       ""lastname"": ""Smith"",
       ""firstname"": ""Jane""
     },
-  ""title"": ""The Ultimate Database Study Guide"",    ""titasale"": ""The Ultimate Database Study Guide"",  
-
+  ""title"": ""The Ultimate Database Study Guide"",  
   ""category"": [""Non-Fiction"", ""Technology""]
  }";
 
 
             Root root = CustomConverter.Deserialize<Root>(json);
             string newJson = CustomConverter.Serializer<Root>(root);
-           
-            Console.WriteLine("\nNew Json\n" + newJson);
+            Root root1 =CustomConverter.Deserialize<Root>(newJson);
+            Console.WriteLine("\nNew Json\n" + root1.isbn);
         }
 
     }

@@ -63,7 +63,14 @@ namespace CustomJsonSerializer.Extensions
                     newJson += '"' + item.Name + '"' + ':' + "{";
                     foreach (var gv in genericValue.GetType().GetProperties())
                     {
-                        newJson += '"' + gv.Name + '"' + ":" + '"' + gv.GetValue(genericValue) + '"' + ',';
+                        if (gv.GetValue(genericValue).GetType()==typeof(string))
+                        {
+                            newJson += '"' + gv.Name + '"' + ":" + '"' + gv.GetValue(genericValue) + '"' + ',';
+                        }
+                        else
+                        {
+                            Console.WriteLine("test1234");
+                        }
                     }
                     if (newJson.Last() == ',')
                     {
