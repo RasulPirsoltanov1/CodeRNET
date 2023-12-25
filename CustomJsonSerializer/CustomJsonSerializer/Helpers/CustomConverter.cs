@@ -49,7 +49,7 @@ namespace CustomJsonSerializer.Extensions
                     newJson += '"' + item.Name + '"' + ':' + "[";
                     foreach (var gv in genericValue as IEnumerable<object>)
                     {
-                        newJson += '"' + gv.ToString() + '"' + ',';
+                        newJson += '"' + gv.ToString() + '"' + ','+"\n";
                     }
                     if (newJson.Last() == ',')
                     {
