@@ -56,8 +56,6 @@ namespace CustomJsonSerializer.Extensions
                         newJson = newJson.Remove(newJson.Length - 1);
                     }
                     newJson += "]" + ',' + "\n";
-                    Console.WriteLine("\n\nGenerics");
-                    Console.WriteLine(item.GetValue(root));
                 }
                 else if (item.PropertyType != typeof(string) && !item.PropertyType.IsGenericType)
                 {

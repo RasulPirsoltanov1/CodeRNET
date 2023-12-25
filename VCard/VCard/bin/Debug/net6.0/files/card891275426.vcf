@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jim Bailey
+EMAIL:jim.bailey@example.com
+TEL:08-0763-1607
+ADR;TYPE=WORK:;;Albany;;Australia
+UID:891275426
+END:VCARD

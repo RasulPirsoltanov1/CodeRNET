@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Freja Pedersen
+EMAIL:freja.pedersen@example.com
+TEL:04155931
+ADR;TYPE=WORK:;;Sandved;;Denmark
+UID:241193-8607
+END:VCARD

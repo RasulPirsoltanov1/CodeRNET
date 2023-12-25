@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jacob Peterson
+EMAIL:jacob.peterson@example.com
+TEL:015394 72127
+ADR;TYPE=WORK:;;Coventry;;United Kingdom
+UID:OC 22 74 28 Z
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Esther Méndez
+EMAIL:esther.mendez@example.com
+TEL:999-245-842
+ADR;TYPE=WORK:;;Bilbao;;Spain
+UID:62812109-Q
+END:VCARD

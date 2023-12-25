@@ -32,6 +32,7 @@ namespace CustomJsonSerializer
 
             Root root = CustomConverter.Deserialize<Root>(json);
             string newJson = CustomConverter.Serializer<Root>(root);
+           
             Console.WriteLine("\nNew Json\n" + newJson);
         }
 

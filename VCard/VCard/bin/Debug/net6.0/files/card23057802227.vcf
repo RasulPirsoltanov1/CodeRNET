@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Aida Aarhus
+EMAIL:aida.aarhus@example.com
+TEL:34112084
+ADR;TYPE=WORK:;;Eidsvik;;Norway
+UID:23057802227
+END:VCARD

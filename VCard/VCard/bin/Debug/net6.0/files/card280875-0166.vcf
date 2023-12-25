@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Nikolaj Jensen
+EMAIL:nikolaj.jensen@example.com
+TEL:74326425
+ADR;TYPE=WORK:;;Roskilde;;Denmark
+UID:280875-0166
+END:VCARD

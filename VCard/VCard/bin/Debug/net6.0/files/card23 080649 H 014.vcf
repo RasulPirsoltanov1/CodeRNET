@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Thoralf Hacker
+EMAIL:thoralf.hacker@example.com
+TEL:0114-0305422
+ADR;TYPE=WORK:;;Hattingen;;Germany
+UID:23 080649 H 014
+END:VCARD

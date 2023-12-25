@@ -43,7 +43,7 @@ namespace VCard.Models
         }
         public bool SaveVCard(string card,string cardId)
         {
-            string directoryPath = @"C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VCard\VCard\files";
+            string directoryPath = Path.GetFullPath(Path.Combine(Environment.CurrentDirectory, @"..\..\..\","files"));
             string filePath = Path.Combine(directoryPath, $"card{cardId}.vcf");
 
             try

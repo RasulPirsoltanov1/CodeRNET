@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Eric Reynolds
+EMAIL:eric.reynolds@example.com
+TEL:071-307-5789
+ADR;TYPE=WORK:;;Buncrana;;Ireland
+UID:3321412T
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alice Ortiz
+EMAIL:alice.ortiz@example.com
+TEL:01-5504-9557
+ADR;TYPE=WORK:;;Bundaberg;;Australia
+UID:164503054
+END:VCARD

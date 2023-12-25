@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jonathan Iglesias
+EMAIL:jonathan.iglesias@example.com
+TEL:920-279-507
+ADR;TYPE=WORK:;;Orense;;Spain
+UID:25454620-T
+END:VCARD
