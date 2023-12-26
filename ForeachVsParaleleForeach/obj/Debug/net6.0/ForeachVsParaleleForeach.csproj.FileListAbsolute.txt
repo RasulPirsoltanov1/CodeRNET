@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\bin\Debug\net6.0\ForeachVsParaleleForeach.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\bin\Debug\net6.0\ForeachVsParaleleForeach.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\bin\Debug\net6.0\ForeachVsParaleleForeach.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\bin\Debug\net6.0\ForeachVsParaleleForeach.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\bin\Debug\net6.0\ForeachVsParaleleForeach.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\refint\ForeachVsParaleleForeach.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ForeachVsParaleleForeach.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\ForeachVsParaleleForeach\obj\Debug\net6.0\ref\ForeachVsParaleleForeach.dll

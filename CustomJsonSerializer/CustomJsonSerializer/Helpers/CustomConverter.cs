@@ -49,7 +49,7 @@ namespace CustomJsonSerializer.Extensions
                     newJson += '"' + item.Name + '"' + ':' + "[";
                     foreach (var gv in genericValue as IEnumerable<object>)
                     {
-                        newJson += '"' + gv.ToString() + '"' + ','+"\n";
+                        newJson += '"' + gv.ToString() + '"' + ',' + "\n";
                     }
                     if (newJson.Last() == ',')
                     {
@@ -63,7 +63,7 @@ namespace CustomJsonSerializer.Extensions
                     newJson += '"' + item.Name + '"' + ':' + "{";
                     foreach (var gv in genericValue.GetType().GetProperties())
                     {
-                        if (gv.GetValue(genericValue).GetType()==typeof(string))
+                        if (gv.GetValue(genericValue).GetType() == typeof(string))
                         {
                             newJson += '"' + gv.Name + '"' + ":" + '"' + gv.GetValue(genericValue) + '"' + ',';
                         }
