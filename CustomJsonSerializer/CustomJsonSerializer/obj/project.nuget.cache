@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+4Vekj1BeISNNvVyGF2Afs1g3NO4AQh4oEuhmASI15pkYEShu6I/pEWgV1gWsQReVkGyDJ2vQBSIW5nWGkqr/A==",
+  "dgSpecHash": "yf3ePQ0j9l8RCgtiRGnx+Hn9fZlWVgRtQAgn4KrTxxoDqrQ62eM7pJlruTuMAvXFsjMSah5dYDFNBmiXOYgwfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\CustomJsonSerializer\\CustomJsonSerializer\\CustomJsonSerializer.csproj",
+  "projectFilePath": "C:\\Users\\murat.vuranok\\Desktop\\Git\\CodeRNET\\CustomJsonSerializer\\CustomJsonSerializer\\CustomJsonSerializer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\resul\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\murat.vuranok\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

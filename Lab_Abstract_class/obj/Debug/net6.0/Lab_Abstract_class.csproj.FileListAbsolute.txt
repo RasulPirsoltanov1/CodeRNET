@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\bin\Debug\net6.0\Lab_Abstract_class.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\bin\Debug\net6.0\Lab_Abstract_class.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\bin\Debug\net6.0\Lab_Abstract_class.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\bin\Debug\net6.0\Lab_Abstract_class.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\bin\Debug\net6.0\Lab_Abstract_class.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\refint\Lab_Abstract_class.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\Lab_Abstract_class.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Lab_Abstract_class\obj\Debug\net6.0\ref\Lab_Abstract_class.dll

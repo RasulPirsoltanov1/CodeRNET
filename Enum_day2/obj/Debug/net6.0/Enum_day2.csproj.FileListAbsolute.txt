@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\bin\Debug\net6.0\Enum_day2.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\bin\Debug\net6.0\Enum_day2.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\bin\Debug\net6.0\Enum_day2.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\bin\Debug\net6.0\Enum_day2.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\bin\Debug\net6.0\Enum_day2.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\refint\Enum_day2.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\Enum_day2.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Enum_day2\obj\Debug\net6.0\ref\Enum_day2.dll
