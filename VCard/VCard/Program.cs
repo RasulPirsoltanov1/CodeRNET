@@ -10,16 +10,17 @@ using System.Net;
 using System.Reflection.Metadata;
 using System.Net.Http.Json;
 
-
 class Program
 {
     private const string URL = "https://randomuser.me/api?results=50&authuser=0";
 
-    public static void Main()
+    public static async Task Main()
     {
-        WebClient syncClient = new WebClient();
-        string content = syncClient.DownloadString(URL);
-        List<Card> cards = GetCards(content);
+        HttpClient client = new HttpClient();
+        HttpResponseMessage response = await client.GetAsync(URL);
+        response.EnsureSuccessStatusCode();
+        string responseBody = await response.Content.ReadAsStringAsync();
+        List<Card> cards = GetCards(responseBody);
         foreach (var item in cards)
         {
             Console.WriteLine(item.GetVCard()+"\n\n");

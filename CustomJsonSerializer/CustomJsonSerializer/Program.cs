@@ -40,7 +40,7 @@ namespace CustomJsonSerializer
       },
       ""email"": ""jennie.nichols@example.com"",
       ""login"": {
-        ""uuid"": ""7a0eed16-9430-4d68-901f-c0d4c1c3bf00"",
+        ""uuid"":""7a0eed16-9430-4d68-901f-c0d4c1c3bf00"",
         ""username"": ""yellowpeacock117"",
         ""password"": ""addison"",
         ""salt"": ""sld1yGtd"",
@@ -71,9 +71,10 @@ namespace CustomJsonSerializer
     }";
 
 
-            Root2 root = CustomConverter.Deserialize<Root2>(json);
-            string newJson = CustomConverter.Serializer<Root2>(root);
-            Console.WriteLine("\nNew Json\n" + newJson);
+            //Root2 root = CustomConverter.Deserialize<Root2>(json);
+            Root2 root2 = CustomConverter.Deserialize2<Root2>(json);
+            //string newJson = CustomConverter.Serializer<Root2>(root);
+            //Console.WriteLine("\nNew Json\n" + newJson);
         }
 
     }

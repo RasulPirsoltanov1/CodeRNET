@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Virgil West
+EMAIL:virgil.west@example.com
+TEL:01-4706-9937
+ADR;TYPE=WORK:;;Tamworth;;Australia
+UID:199246525
+END:VCARD

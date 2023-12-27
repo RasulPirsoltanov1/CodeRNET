@@ -1,6 +1,9 @@
 ﻿using CustomJsonSerializer.Models;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Reflection;
+using System.Text;
+using System.Text.Json;
 
 namespace CustomJsonSerializer.Extensions
 {
@@ -49,7 +52,7 @@ namespace CustomJsonSerializer.Extensions
                     newJson += '"' + item.Name + '"' + ':' + "[";
                     foreach (var gv in genericValue as IEnumerable<object>)
                     {
-                        newJson += '"' + gv.ToString() + '"' + ','+"\n";
+                        newJson += '"' + gv.ToString() + '"' + ',' + "\n";
                     }
                     if (newJson.Last() == ',')
                     {
@@ -63,7 +66,7 @@ namespace CustomJsonSerializer.Extensions
                     newJson += '"' + item.Name + '"' + ':' + "{";
                     foreach (var gv in genericValue.GetType().GetProperties())
                     {
-                        if (gv.GetValue(genericValue).GetType()==typeof(string))
+                        if (gv.GetValue(genericValue).GetType() == typeof(string))
                         {
                             newJson += '"' + gv.Name + '"' + ":" + '"' + gv.GetValue(genericValue) + '"' + ',';
                         }
@@ -86,6 +89,16 @@ namespace CustomJsonSerializer.Extensions
             }
             newJson += "}";
             return newJson;
+        }
+
+
+        public static T Deserialize2<T>(string value) where T : class, new()
+        {
+            JObject pairs = JObject.Parse(value);
+            var query = pairs.Descendants().OfType<JProperty>().Where(p => p.Value.Type != JTokenType.Array && p.Value.Type != JTokenType.Object);
+            foreach (var property in query)
+                Console.WriteLine(property);
+            return new T();
         }
     }
 }

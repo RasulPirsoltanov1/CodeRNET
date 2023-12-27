@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Anthon Van Wijck
+EMAIL:anthon.vanwijck@example.com
+TEL:(0499) 118500
+ADR;TYPE=WORK:;;Warten;;Netherlands
+UID:96195709
+END:VCARD

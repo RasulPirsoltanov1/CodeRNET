@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ivan Romero
+EMAIL:ivan.romero@example.com
+TEL:017684 25002
+ADR;TYPE=WORK:;;Derby;;United Kingdom
+UID:MG 32 53 95 Y
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jeppe Larsen
+EMAIL:jeppe.larsen@example.com
+TEL:77454550
+ADR;TYPE=WORK:;;Amager;;Denmark
+UID:220574-0732
+END:VCARD
