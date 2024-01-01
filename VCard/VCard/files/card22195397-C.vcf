@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Xavier Pastor
+EMAIL:xavier.pastor@example.com
+TEL:965-943-368
+ADR;TYPE=WORK:;;Murcia;;Spain
+UID:22195397-C
+END:VCARD

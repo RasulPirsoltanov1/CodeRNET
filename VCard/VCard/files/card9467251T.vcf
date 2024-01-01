@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Gavin Doyle
+EMAIL:gavin.doyle@example.com
+TEL:061-002-6010
+ADR;TYPE=WORK:;;Skerries;;Ireland
+UID:9467251T
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Charles Côté
+EMAIL:charles.cote@example.com
+TEL:M92 B40-0392
+ADR;TYPE=WORK:;;Springfield;;Canada
+UID:706846276
+END:VCARD

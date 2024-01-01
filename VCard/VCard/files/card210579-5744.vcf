@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lærke Petersen
+EMAIL:laerke.petersen@example.com
+TEL:79993839
+ADR;TYPE=WORK:;;Frederiksberg;;Denmark
+UID:210579-5744
+END:VCARD

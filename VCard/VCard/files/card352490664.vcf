@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Floyd Lee
+EMAIL:floyd.lee@example.com
+TEL:02-3146-1761
+ADR;TYPE=WORK:;;Bendigo;;Australia
+UID:352490664
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Greg George
+EMAIL:greg.george@example.com
+TEL:02-1387-1989
+ADR;TYPE=WORK:;;Bundaberg;;Australia
+UID:562543819
+END:VCARD

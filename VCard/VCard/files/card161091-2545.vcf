@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Johanne Nielsen
+EMAIL:johanne.nielsen@example.com
+TEL:53490314
+ADR;TYPE=WORK:;;Agerbæk;;Denmark
+UID:161091-2545
+END:VCARD

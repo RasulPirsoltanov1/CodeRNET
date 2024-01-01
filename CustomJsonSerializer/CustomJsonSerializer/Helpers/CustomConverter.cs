@@ -90,15 +90,6 @@ namespace CustomJsonSerializer.Extensions
             newJson += "}";
             return newJson;
         }
-
-
-        public static T Deserialize2<T>(string value) where T : class, new()
-        {
-            JObject pairs = JObject.Parse(value);
-            var query = pairs.Descendants().OfType<JProperty>().Where(p => p.Value.Type != JTokenType.Array && p.Value.Type != JTokenType.Object);
-            foreach (var property in query)
-                Console.WriteLine(property);
-            return new T();
-        }
+      
     }
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCPmE6PVqRXm3hdqoUuvYYSx7M9FOMnqJ9wowcW1eMiJGOuohlUGu9ucnfHaB3hmkYgZbjai2pwpWMwVL6ln0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Dynamic_CSV_Reader\\Dynamic_CSV_Reader\\Dynamic_CSV_Reader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

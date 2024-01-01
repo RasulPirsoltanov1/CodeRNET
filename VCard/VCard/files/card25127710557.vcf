@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Stian Habbestad
+EMAIL:stian.habbestad@example.com
+TEL:35686946
+ADR;TYPE=WORK:;;Hauknes;;Norway
+UID:25127710557
+END:VCARD

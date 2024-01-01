@@ -1,0 +1,17 @@
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\bin\Debug\net6.0\Dynamic_CSV_Reader.exe
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\bin\Debug\net6.0\Dynamic_CSV_Reader.deps.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\bin\Debug\net6.0\Dynamic_CSV_Reader.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\bin\Debug\net6.0\Dynamic_CSV_Reader.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\bin\Debug\net6.0\Dynamic_CSV_Reader.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.csproj.CopyComplete
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\refint\Dynamic_CSV_Reader.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\Dynamic_CSV_Reader.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\Dynamic_CSV_Reader\obj\Debug\net6.0\ref\Dynamic_CSV_Reader.dll
