@@ -27,7 +27,7 @@ namespace ConsoleApplication
     {
 
         // Main method
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
 
             // Declare p1 of type Person
@@ -54,6 +54,19 @@ namespace ConsoleApplication
 
             Console.WriteLine(p1.Equals(p2));
 
+        }
+
+        public static void Main()
+        {
+            List<(string, int, int)> values = new List<(string, int, int)>();
+            values.Add(("sad", 1, 3));
+            values.Add(("bud", 3, 5));
+            values.Add(("qod", 2, 6));
+            values.Add(("vad", 5, 7));
+            values.ForEach((x) =>
+            {
+                Console.WriteLine(x.Item1 + " : " + x.Item2 + " : " + x.Item3);
+            });
         }
     }
 }

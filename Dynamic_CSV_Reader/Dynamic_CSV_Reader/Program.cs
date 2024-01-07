@@ -26,80 +26,81 @@ namespace Dynamic_CSV_Reader
             Employee employee = Activator.CreateInstance<Employee>();
             Order order = Activator.CreateInstance<Order>();
             Product product = Activator.CreateInstance<Product>();
-
-            for (var i = 0; i < list.Count; i++)
+            try
             {
-                var datas = String.Join(" ", list[i].Split(default(string[]), StringSplitOptions.RemoveEmptyEntries)).Split(',');
-
-                for (int k = 0; k < datas.Length; k++)
+                for (var i = 0; i < list.Count; i++)
                 {
-                    if ("Category" == datas[k]) //how can i do it automatic?
+                    var datas = String.Join(" ", list[i].Split(default(string[]), StringSplitOptions.RemoveEmptyEntries)).Split(',');
+
+                    for (int k = 0; k < datas.Length; k++)
                     {
-                        for (var j = 1; j < datas.Length; j++)
+                        if ("Category" == datas[k]) //how can i do it automatic?
                         {
-                            category.Name.Add(datas[j]);
+                            if (datas[k].Length < 3)
+                                throw new Exception($" {datas[k]} incorrect data type!");
+                            for (var j = 1; j < datas.Length; j++)
+                                category.Name.Add(datas[j]);
                         }
-                    }
-                    else if (datas[k] == "Employee")
-                    {
-                        for (var j = 1; j < datas.Length; j++)
+                        else if (datas[k] == "Employee")
                         {
-                            employee.Name.Add(datas[j]);
+                            if (datas[k].Length < 2)
+                                throw new Exception($" {datas[k]} incorrect data type!");
+                            for (var j = 1; j < datas.Length; j++)
+                                employee.Name.Add(datas[j]);
                         }
-                    }
-                    else if (datas[k] == "Order")
-                    {
-                        for (var j = 1; j < datas.Length; j++)
+                        else if (datas[k] == "Order")
                         {
+                            if (datas[k].Length < 3)
+                                throw new Exception($" {datas[k]} incorrect data type!");
                             order.Total = Convert.ToInt32(datas[1]);
                             order.Name = datas[2];
-                        }
-                    }
-                    else if (datas[k] == "Product")
-                    {
-                        if (datas[k].Length < 5)
-                        {
-                            throw new Exception("");
-                        }
-                        for (var j = 1; j < datas.Length; j++)
-                        {
-                            product.Name = datas[1];
-                            product.Description = datas[2];
-                            product.Price = Convert.ToInt32(datas[3]);
-                            product.Stock = Convert.ToInt32(datas[4]);
                             break;
+                        }
+                        else if (datas[k] == "Product")
+                        {
+                            if (datas[k].Length < 5)
+                                throw new Exception($" {datas[k]} incorrect data type!");
+                            for (var j = 1; j < datas.Length; j++)
+                            {
+                                product.Name = datas[1];
+                                product.Description = datas[2];
+                                product.Price = Convert.ToInt32(datas[3]);
+                                product.Stock = Convert.ToInt32(datas[4]);
+                                break;
+                            }
                         }
                     }
                 }
+                Console.WriteLine("----------Categories------------");
+                Console.Write("Names : ");
+                foreach (var item1 in category.Name)
+                {
+                    Console.Write(item1);
+                    if (item1 != category.Name.Last())
+                        Console.Write(",");
+                }
+                Console.WriteLine("\n");
+                Console.WriteLine("----------Employees------------");
+                Console.Write("Names : ");
+                foreach (var item1 in employee.Name)
+                {
+                    Console.Write(item1);
+                    if (item1 != employee.Name.Last())
+                        Console.Write(",");
+                }
+                Console.WriteLine("\n");
+                Console.WriteLine("----------Order------------");
+                Console.WriteLine("Name: " + order.Name + "   | Total: " + order.Total);
+                Console.WriteLine();
+                Console.WriteLine("----------Product------------");
+                Console.WriteLine("Name: " + product.Name + "   |  Price: " + product.Price);
+                Console.WriteLine("Description: " + product.Description + "   |  Stock: " + product.Stock);
+                Console.WriteLine();
             }
-            Console.WriteLine("----------Categories------------");
-            Console.Write("Names : ");
-            foreach (var item1 in category.Name)
+            catch (Exception ex)
             {
-                Console.Write(item1);
-                if (item1 != category.Name.Last())
-                    Console.Write(",");
+                Console.WriteLine(ex.Message);
             }
-            Console.WriteLine("\n");
-            Console.WriteLine();
-            Console.WriteLine("----------Employees------------");
-            Console.Write("Names : ");
-            foreach (var item1 in employee.Name)
-            {
-                Console.Write(item1);
-                if (item1 != employee.Name.Last())
-                    Console.Write(",");
-            }
-            Console.WriteLine("\n");
-            Console.WriteLine("----------Order------------");
-            Console.WriteLine("Name: " + order.Name + "   | Total: " + order.Total);
-            Console.WriteLine();
-            Console.WriteLine("----------Product------------");
-            Console.WriteLine("Name: " + product.Name + "   |  Price: " + product.Price);
-            Console.WriteLine("Description: " + product.Description + "   |  Stock: " + product.Stock);
-            Console.WriteLine();
-
-
         }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\bin\Debug\net6.0-windows\DelegateForm.exe
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\bin\Debug\net6.0-windows\DelegateForm.deps.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\bin\Debug\net6.0-windows\DelegateForm.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\bin\Debug\net6.0-windows\DelegateForm.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\bin\Debug\net6.0-windows\DelegateForm.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.Form1.resources
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.csproj.GenerateResource.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\refint\DelegateForm.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\DelegateForm.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Delegates2\DelegateForm\obj\Debug\net6.0-windows\ref\DelegateForm.dll

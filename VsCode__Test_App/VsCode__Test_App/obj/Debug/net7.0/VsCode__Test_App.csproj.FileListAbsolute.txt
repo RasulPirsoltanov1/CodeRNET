@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\bin\Debug\net7.0\VsCode__Test_App.exe
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\bin\Debug\net7.0\VsCode__Test_App.deps.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\bin\Debug\net7.0\VsCode__Test_App.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\bin\Debug\net7.0\VsCode__Test_App.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\bin\Debug\net7.0\VsCode__Test_App.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\refint\VsCode__Test_App.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\VsCode__Test_App.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\VsCode__Test_App\VsCode__Test_App\obj\Debug\net7.0\ref\VsCode__Test_App.dll
