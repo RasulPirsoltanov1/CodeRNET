@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Activator\\Activator\\Activator.csproj": {}
+    "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\Activator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Activator\\Activator\\Activator.csproj": {
+    "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\Activator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Activator\\Activator\\Activator.csproj",
+        "projectUniqueName": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\Activator.csproj",
         "projectName": "Activator",
-        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Activator\\Activator\\Activator.csproj",
-        "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Activator\\Activator\\obj\\",
+        "projectPath": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\Activator.csproj",
+        "packagesPath": "C:\\Users\\Rasul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Rasul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

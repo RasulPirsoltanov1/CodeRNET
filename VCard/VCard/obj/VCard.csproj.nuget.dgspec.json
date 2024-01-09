@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\VCard\\VCard\\VCard.csproj": {}
+    "C:\\Users\\Rasul\\Desktop\\CodeRNET\\VCard\\VCard\\VCard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\VCard\\VCard\\VCard.csproj": {
+    "C:\\Users\\Rasul\\Desktop\\CodeRNET\\VCard\\VCard\\VCard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\VCard\\VCard\\VCard.csproj",
+        "projectUniqueName": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\VCard\\VCard\\VCard.csproj",
         "projectName": "VCard",
-        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\VCard\\VCard\\VCard.csproj",
-        "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\VCard\\VCard\\obj\\",
+        "projectPath": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\VCard\\VCard\\VCard.csproj",
+        "packagesPath": "C:\\Users\\Rasul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\VCard\\VCard\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Rasul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

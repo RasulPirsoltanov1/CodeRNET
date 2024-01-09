@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9xkd69GAg84NTMVa2tSy21K9d+u66Un+23PrSON4+7KfIafiCLrEqpoEKMrzwpPx/RLZVC+vT2kLFtwhL27TPA==",
+  "dgSpecHash": "gkmwLv7M/LJBcBJReuW4OFqTmH7p0RFfFhBRlFv2w/wkGZ2vSYHHE43HMbI7DiYaiFlYxhWDZ/DnKJxwjqB5cA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Activator\\Activator\\Activator.csproj",
+  "projectFilePath": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\Custom_Activator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\resul\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+    "C:\\Users\\Rasul\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
   ],
   "logs": []
 }
