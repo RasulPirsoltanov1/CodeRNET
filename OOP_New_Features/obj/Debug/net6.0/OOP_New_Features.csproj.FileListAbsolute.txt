@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\bin\Debug\net6.0\OOP_New_Features.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\bin\Debug\net6.0\OOP_New_Features.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\bin\Debug\net6.0\OOP_New_Features.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\bin\Debug\net6.0\OOP_New_Features.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\bin\Debug\net6.0\OOP_New_Features.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\refint\OOP_New_Features.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\OOP_New_Features.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\OOP_New_Features\obj\Debug\net6.0\ref\OOP_New_Features.dll
