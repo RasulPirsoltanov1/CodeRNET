@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Julian Leyva
+EMAIL:julian.leyva@example.com
+TEL:(601) 833 1777
+ADR;TYPE=WORK:;;El Fuerte;;Mexico
+UID:31 83 60 8865 5
+END:VCARD

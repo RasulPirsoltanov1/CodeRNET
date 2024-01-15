@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkmwLv7M/LJBcBJReuW4OFqTmH7p0RFfFhBRlFv2w/wkGZ2vSYHHE43HMbI7DiYaiFlYxhWDZ/DnKJxwjqB5cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasul\\Desktop\\CodeRNET\\Activator\\Activator\\Custom_Activator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasul\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

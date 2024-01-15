@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Marit Kildal
+EMAIL:marit.kildal@example.com
+TEL:23830353
+ADR;TYPE=WORK:;;Folkestad;;Norway
+UID:08108029839
+END:VCARD

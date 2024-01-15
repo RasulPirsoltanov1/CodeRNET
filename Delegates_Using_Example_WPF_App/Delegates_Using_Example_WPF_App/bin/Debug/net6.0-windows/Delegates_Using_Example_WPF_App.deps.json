@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Delegates_Using_Example_WPF_App/1.0.0": {
+        "runtime": {
+          "Delegates_Using_Example_WPF_App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Delegates_Using_Example_WPF_App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

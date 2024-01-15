@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:A Van de Wiel
+EMAIL:a.vandewiel@example.com
+TEL:(048) 0841411
+ADR;TYPE=WORK:;;Midwolde;;Netherlands
+UID:67107308
+END:VCARD

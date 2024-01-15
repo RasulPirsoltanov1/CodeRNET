@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murat.vuranok\\Desktop\\Git\\CodeRNET\\Sealed\\Sealed.csproj": {}
+    "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Sealed\\Sealed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murat.vuranok\\Desktop\\Git\\CodeRNET\\Sealed\\Sealed.csproj": {
+    "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Sealed\\Sealed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat.vuranok\\Desktop\\Git\\CodeRNET\\Sealed\\Sealed.csproj",
+        "projectUniqueName": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Sealed\\Sealed.csproj",
         "projectName": "Sealed",
-        "projectPath": "C:\\Users\\murat.vuranok\\Desktop\\Git\\CodeRNET\\Sealed\\Sealed.csproj",
-        "packagesPath": "C:\\Users\\murat.vuranok\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat.vuranok\\Desktop\\Git\\CodeRNET\\Sealed\\obj\\",
+        "projectPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Sealed\\Sealed.csproj",
+        "packagesPath": "C:\\Users\\resul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Sealed\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\murat.vuranok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\resul\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

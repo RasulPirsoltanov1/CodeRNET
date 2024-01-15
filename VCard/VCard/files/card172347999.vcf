@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alice Gauthier
+EMAIL:alice.gauthier@example.com
+TEL:Y81 S94-7064
+ADR;TYPE=WORK:;;Fountainbleu;;Canada
+UID:172347999
+END:VCARD

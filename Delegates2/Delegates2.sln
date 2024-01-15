@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates2", "Delegates2\Delegates2.csproj", "{A13E312F-409D-49A7-8546-78F41B3A10D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateForm", "DelegateForm\DelegateForm.csproj", "{B3777DCA-3A83-448F-AA0B-74C5F7A087DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13E312F-409D-49A7-8546-78F41B3A10D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13E312F-409D-49A7-8546-78F41B3A10D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13E312F-409D-49A7-8546-78F41B3A10D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13E312F-409D-49A7-8546-78F41B3A10D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3777DCA-3A83-448F-AA0B-74C5F7A087DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3777DCA-3A83-448F-AA0B-74C5F7A087DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3777DCA-3A83-448F-AA0B-74C5F7A087DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3777DCA-3A83-448F-AA0B-74C5F7A087DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A31F437A-F53D-47AA-A16C-33BA22CA91AC}
+	EndGlobalSection
+EndGlobal

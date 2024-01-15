@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Tomas Cabrera
+EMAIL:tomas.cabrera@example.com
+TEL:978-510-954
+ADR;TYPE=WORK:;;Lorca;;Spain
+UID:42752769-T
+END:VCARD

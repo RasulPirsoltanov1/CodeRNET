@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Maxime Durand
+EMAIL:maxime.durand@example.com
+TEL:079 655 80 61
+ADR;TYPE=WORK:;;Bauen;;Switzerland
+UID:756.9975.6906.72
+END:VCARD

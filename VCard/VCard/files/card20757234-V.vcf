@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alfredo Alonso
+EMAIL:alfredo.alonso@example.com
+TEL:904-817-480
+ADR;TYPE=WORK:;;Alcalá de Henares;;Spain
+UID:20757234-V
+END:VCARD

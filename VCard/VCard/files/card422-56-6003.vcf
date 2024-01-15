@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Andre Bailey
+EMAIL:andre.bailey@example.com
+TEL:(452) 312-9473
+ADR;TYPE=WORK:;;Independence;;United States
+UID:422-56-6003
+END:VCARD

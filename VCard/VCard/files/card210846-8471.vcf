@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Villads Mortensen
+EMAIL:villads.mortensen@example.com
+TEL:82672039
+ADR;TYPE=WORK:;;Ishoej;;Denmark
+UID:210846-8471
+END:VCARD

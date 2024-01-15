@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Todd Black
+EMAIL:todd.black@example.com
+TEL:061-829-3203
+ADR;TYPE=WORK:;;Rush;;Ireland
+UID:9967774T
+END:VCARD

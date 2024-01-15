@@ -1,6 +1,9 @@
 ﻿using CustomJsonSerializer.Models;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Reflection;
+using System.Text;
+using System.Text.Json;
 
 namespace CustomJsonSerializer.Extensions
 {
@@ -87,5 +90,6 @@ namespace CustomJsonSerializer.Extensions
             newJson += "}";
             return newJson;
         }
+      
     }
 }

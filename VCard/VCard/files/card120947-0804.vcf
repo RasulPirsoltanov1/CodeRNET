@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Christian Hansen
+EMAIL:christian.hansen@example.com
+TEL:28207646
+ADR;TYPE=WORK:;;København S;;Denmark
+UID:120947-0804
+END:VCARD

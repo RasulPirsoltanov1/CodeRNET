@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ivan Webb
+EMAIL:ivan.webb@example.com
+TEL:(797) 426-3414
+ADR;TYPE=WORK:;;Newport News;;United States
+UID:512-73-4831
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Allan Cole
+EMAIL:allan.cole@example.com
+TEL:(580) 360-9030
+ADR;TYPE=WORK:;;Ennis;;United States
+UID:656-70-5228
+END:VCARD

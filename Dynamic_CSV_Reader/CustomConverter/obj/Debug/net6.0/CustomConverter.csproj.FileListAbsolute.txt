@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\bin\Debug\net6.0\CustomConverter.exe
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\bin\Debug\net6.0\CustomConverter.deps.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\bin\Debug\net6.0\CustomConverter.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\bin\Debug\net6.0\CustomConverter.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\bin\Debug\net6.0\CustomConverter.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\refint\CustomConverter.dll
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.pdb
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\CustomConverter.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\CodeRNET\Dynamic_CSV_Reader\CustomConverter\obj\Debug\net6.0\ref\CustomConverter.dll

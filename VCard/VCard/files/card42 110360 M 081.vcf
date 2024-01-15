@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kenneth Matthies
+EMAIL:kenneth.matthies@example.com
+TEL:0999-6057908
+ADR;TYPE=WORK:;;Krefeld;;Germany
+UID:42 110360 M 081
+END:VCARD

@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jordi Reyes
+EMAIL:jordi.reyes@example.com
+TEL:937-856-911
+ADR;TYPE=WORK:;;Talavera de la Reina;;Spain
+UID:68233753-B
+END:VCARD

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1xPRzVKYEoAqIUaL1KkIE5SmJXG19paa1WNryncmYGmBiKqzT0NxaUaGHPJYtceKASB+EnebuMzKSu1AU0Hpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\resul\\OneDrive\\Masaüstü\\CodeRNET\\Postegre_Product_Managament\\Postegre_Product_Managament\\Postegre_Product_Managament.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\resul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\resul\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

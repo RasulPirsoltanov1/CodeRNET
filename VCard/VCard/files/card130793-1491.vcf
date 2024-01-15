@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Oscar Johansen
+EMAIL:oscar.johansen@example.com
+TEL:33071332
+ADR;TYPE=WORK:;;Ishoej;;Denmark
+UID:130793-1491
+END:VCARD

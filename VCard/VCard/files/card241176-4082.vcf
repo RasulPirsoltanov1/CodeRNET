@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Tobias Mortensen
+EMAIL:tobias.mortensen@example.com
+TEL:07069210
+ADR;TYPE=WORK:;;Rønnede;;Denmark
+UID:241176-4082
+END:VCARD
