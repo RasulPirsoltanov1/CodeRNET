@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\bin\Debug\net6.0\dynamic_object.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\bin\Debug\net6.0\dynamic_object.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\bin\Debug\net6.0\dynamic_object.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\bin\Debug\net6.0\dynamic_object.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\bin\Debug\net6.0\dynamic_object.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\refint\dynamic_object.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\dynamic_object.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\dynamic_object\obj\Debug\net6.0\ref\dynamic_object.dll

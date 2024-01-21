@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\bin\Debug\net6.0\Design_Patterns.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\bin\Debug\net6.0\Design_Patterns.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\bin\Debug\net6.0\Design_Patterns.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\bin\Debug\net6.0\Design_Patterns.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\bin\Debug\net6.0\Design_Patterns.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\refint\Design_Patterns.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\Design_Patterns.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\Design_Patterns\obj\Debug\net6.0\ref\Design_Patterns.dll

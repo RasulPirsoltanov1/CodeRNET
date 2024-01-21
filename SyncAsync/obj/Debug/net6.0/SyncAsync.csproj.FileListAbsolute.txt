@@ -1,0 +1,15 @@
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\bin\Debug\net6.0\SyncAsync.exe
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\bin\Debug\net6.0\SyncAsync.deps.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\bin\Debug\net6.0\SyncAsync.runtimeconfig.json
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\bin\Debug\net6.0\SyncAsync.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\bin\Debug\net6.0\SyncAsync.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.csproj.AssemblyReference.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.AssemblyInfoInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.AssemblyInfo.cs
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.csproj.CoreCompileInputs.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\refint\SyncAsync.dll
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.pdb
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\SyncAsync.genruntimeconfig.cache
+C:\Users\murat.vuranok\Desktop\Git\CodeRNET\SyncAsync\obj\Debug\net6.0\ref\SyncAsync.dll
