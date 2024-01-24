@@ -1,0 +1,92 @@
+CREATE DATABASE SettlementsDatabase;
+USE SettlementsDatabase;
+
+CREATE TABLE Countries (
+    CountryID INT PRIMARY KEY IDENTITY(1,1),
+    CountryName NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Cities (
+    CityID INT PRIMARY KEY IDENTITY(1,1),
+    CityName NVARCHAR(100) NOT NULL,
+    CountryID INT FOREIGN KEY REFERENCES Countries(CountryID)
+);
+
+CREATE TABLE Districts (
+    DistrictID INT PRIMARY KEY IDENTITY(1,1),
+    DistrictName NVARCHAR(100) NOT NULL,
+    CityID INT FOREIGN KEY REFERENCES Cities(CityID)
+);
+
+CREATE TABLE Towns (
+    TownID INT PRIMARY KEY IDENTITY(1,1),
+    TownName NVARCHAR(100) NOT NULL,
+    DistrictID INT FOREIGN KEY REFERENCES Districts(DistrictID)
+);
+
+
+CREATE PROCEDURE sp_AddSettlement
+    @country NVARCHAR(100),
+    @city NVARCHAR(100),
+    @district NVARCHAR(100),
+    @town NVARCHAR(100)
+AS
+BEGIN
+    DECLARE @countryID INT;
+    DECLARE @cityID INT;
+    DECLARE @districtID INT;
+
+    -- Ölkənin yoxlanılması və əlavə edilməsi
+    IF NOT EXISTS (SELECT 1 FROM Countries WHERE CountryName = @country)
+    BEGIN
+        INSERT INTO Countries (CountryName) VALUES (@country);
+        SET @countryID = SCOPE_IDENTITY();
+        PRINT 'Ölkə əlavə edildi. Ölkə ID: ' + CAST(@countryID AS NVARCHAR(10));
+    END
+    ELSE
+    BEGIN
+        SELECT @countryID = CountryID FROM Countries WHERE CountryName = @country;
+        PRINT 'Ölkə artıq mövcuddur. Ölkə ID: ' + CAST(@countryID AS NVARCHAR(10));
+    END
+
+    -- Şəhərin yoxlanılması və əlavə edilməsi
+    IF NOT EXISTS (SELECT 1 FROM Cities WHERE CityName = @city AND CountryID = @countryID)
+    BEGIN
+        INSERT INTO Cities (CityName, CountryID) VALUES (@city, @countryID);
+        SET @cityID = SCOPE_IDENTITY();
+        PRINT 'Şəhər əlavə edildi. Şəhər ID: ' + CAST(@cityID AS NVARCHAR(10));
+    END
+    ELSE
+    BEGIN
+        SELECT @cityID = CityID FROM Cities WHERE CityName = @city AND CountryID = @countryID;
+        PRINT 'Şəhər artıq mövcuddur. Şəhər ID: ' + CAST(@cityID AS NVARCHAR(10));
+    END
+
+    -- Rayonun yoxlanılması və əlavə edilməsi
+    IF NOT EXISTS (SELECT 1 FROM Districts WHERE DistrictName = @district AND CityID = @cityID)
+    BEGIN
+        INSERT INTO Districts (DistrictName, CityID) VALUES (@district, @cityID);
+        SET @districtID = SCOPE_IDENTITY();
+        PRINT 'Rayon əlavə edildi. Rayon ID: ' + CAST(@districtID AS NVARCHAR(10));
+    END
+    ELSE
+    BEGIN
+        SELECT @districtID = DistrictID FROM Districts WHERE DistrictName = @district AND CityID = @cityID;
+        PRINT 'Rayon artıq mövcuddur. Rayon ID: ' + CAST(@districtID AS NVARCHAR(10));
+    END
+
+    -- Qəsəbənin yoxlanılması və əlavə edilməsi
+    IF NOT EXISTS (SELECT 1 FROM Towns WHERE TownName = @town AND DistrictID = @districtID)
+    BEGIN
+        INSERT INTO Towns (TownName, DistrictID) VALUES (@town, @districtID);
+        PRINT 'Qəsəbə əlavə edildi.';
+    END
+    ELSE
+    BEGIN
+        PRINT 'Qəsəbə artıq mövcuddur.';
+    END
+END;
+
+-- Test üçün Stored Procedure'ün çağrılması
+EXEC sp_AddSettlement 'Azərbaycan', 'Bakı', 'Nizami', 'Nərimanov';
+EXEC sp_AddSettlement 'Azərbaycan', 'Bakı', 'Xətai', 'Yasamal';
