@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JWT_Refresh_Token.props" />
+</Project>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "v0FkutrHsbwxC037/RQEqs6i3lmEyMQkhYk9zVdOEdBHDS7YjVuWY2QzE7YmI7Su7RRhgMZ/VZgj5nswyrSkyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rasul\\Desktop\\MyFiles\\CodeRNET\\EF_Core\\Asp.Net Core\\FirstApp\\MinimalApiExample\\MinimalApiExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rasul\\.nuget\\packages\\carter\\8.0.0\\carter.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rasul\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Rasul\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.0\\microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rasul\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Rasul\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

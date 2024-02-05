@@ -1,0 +1,15 @@
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.AssemblyInfoInputs.cache
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.AssemblyInfo.cs
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.csproj.CoreCompileInputs.cache
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.sourcelink.json
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\bin\Debug\net6.0\OOP_Test.exe
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\bin\Debug\net6.0\OOP_Test.deps.json
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\bin\Debug\net6.0\OOP_Test.runtimeconfig.json
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\bin\Debug\net6.0\OOP_Test.dll
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\bin\Debug\net6.0\OOP_Test.pdb
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.dll
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\refint\OOP_Test.dll
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.pdb
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\OOP_Test.genruntimeconfig.cache
+C:\Users\Rasul\Desktop\CodeRNET\OOP_Test\OOP_Test\obj\Debug\net6.0\ref\OOP_Test.dll

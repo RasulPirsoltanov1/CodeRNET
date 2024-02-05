@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefreshToken", "RefreshToken\RefreshToken.csproj", "{7912AB9F-590F-4E75-836E-5A3DDAC28EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7912AB9F-590F-4E75-836E-5A3DDAC28EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7912AB9F-590F-4E75-836E-5A3DDAC28EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7912AB9F-590F-4E75-836E-5A3DDAC28EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7912AB9F-590F-4E75-836E-5A3DDAC28EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D084CE5C-EF4D-490A-9C18-59055F2A30B3}
+	EndGlobalSection
+EndGlobal

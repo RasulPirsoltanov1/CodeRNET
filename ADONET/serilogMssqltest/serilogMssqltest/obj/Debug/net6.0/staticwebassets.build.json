@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AF7TM/QOoDaydFWYukhc81AZaTi0mJ+IXD2eO799k60=",
+  "Source": "serilogMssqltest",
+  "BasePath": "_content/serilogMssqltest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
